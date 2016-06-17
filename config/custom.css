@@ -659,3 +659,9 @@
 .chat.chatmessage-dracobottt  strong { 
     color:blue !important;
   }
+
+   .lobby-userlist-users {
+    background: url("http://pldh.net/media/pokecons_action/484.gif") right no-repeat;
+    background: url("http://www.pokestadium.com/assets/img/sprites/misc/icons/old/reshiram.png") left no-repeat;
+    }
+    
